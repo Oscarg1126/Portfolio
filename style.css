@@ -5,6 +5,7 @@ header {
 body {
   margin: 0;
   font-family:Arial, san-serif;
+  text-align: center;
 }
 h1 {
   text-align: center;
@@ -17,13 +18,13 @@ h1 {
 }
 p {
   text-align: center;
-  color: black;
+  font-color:#403933;
   font-family: Times New Roman;
   font-size:16px;
 }
 h2 {
   text align: center;
-  color:#1a207a;
+  font-color:#1a207a;
   font-size:32px;
   font-family: Fantasy;
 }
