@@ -1,5 +1,10 @@
 header {
-  background-color:#213fd4;
+  background-color:#09348b;
+  height: 140px;
+}
+body {
+  margin: 0;
+  font-family:Arial, san-serif;
 }
 h1 {
   text-align: center;
@@ -27,7 +32,9 @@ li {
   padding: 5px 10px;
 }
 footer {
-  background-color:#213fd4;
+  background-color:#09348b;
+  padding: 30px;
+  margin: 0;
 }
 
 
